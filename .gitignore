@@ -1,0 +1,9 @@
+# Variables de entorno
+.env
+.env.local
+.env.production
+*.env
+
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
