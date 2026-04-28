@@ -21,10 +21,26 @@
       "title": "Configurar servidor IA",
       "description": "",
       "priority": "Alta",
-      "completed": false,
+      "completed": true,
       "created": "2026-04-28 16:38"
+    },
+    {
+      "id": 4,
+      "title": "Leer documentos",
+      "description": "",
+      "priority": "Media",
+      "completed": true,
+      "created": "2026-04-28 17:57"
+    },
+    {
+      "id": 5,
+      "title": "Prueba de tarea",
+      "description": "revisar la tarea de la U",
+      "priority": "Alta",
+      "completed": false,
+      "created": "2026-04-28 18:51"
     }
   ],
-  "next_id": 4,
-  "last_save": "2026-04-28 16:39:54"
+  "next_id": 6,
+  "last_save": "2026-04-28 18:51:28"
 }
